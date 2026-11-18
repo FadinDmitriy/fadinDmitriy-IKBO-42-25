@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+    <package>python3</package>
+    <repository>https://archive.ubuntu.com/ubuntu/</repository>
+    <test_mode>false</test_mode>
+    <filter></filter>
+</configuration>

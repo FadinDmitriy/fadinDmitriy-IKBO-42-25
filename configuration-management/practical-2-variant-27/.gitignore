@@ -1,0 +1,17 @@
+
+# Python virtual environment
+.venv/
+venv/
+
+# Python generated files
+__pycache__/
+*.pyc
+*.pyo
+
+# PyCharm settings
+.idea/
+
+# Test and coverage caches
+.pytest_cache/
+.coverage
+htmlcov/
